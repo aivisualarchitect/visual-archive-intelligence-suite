@@ -2,6 +2,14 @@
 
 Local-first Python toolkit for image archive analysis, OCR, metadata extraction, duplicate detection, folder audits, and HTML gallery review.
 
+## Current Status
+
+This repository is currently being prepared as a public-safe portfolio version.
+
+The original workflow was developed as a local-first image archive analysis system. This public version is being organized step by step with sanitized examples, beginner-readable documentation, and code that can be reviewed or replicated without exposing private files, personal archives, client data, or sensitive metadata.
+
+Last updated: May 23, 2026.
+
 ## Purpose
 
 Visual Archive Intelligence Suite is a practical local workflow prototype for organizing, reviewing, and analyzing large image collections.
