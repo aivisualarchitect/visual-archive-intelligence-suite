@@ -1,0 +1,11 @@
+# Image reading, dimensions, thumbnails
+pillow
+
+# Image processing / future duplicate or visual analysis
+opencv-python
+
+# Python bridge to Tesseract OCR
+pytesseract
+
+# Progress bars for large folder scans
+tqdm
